@@ -1,0 +1,16 @@
+HeliosDoorKit
+Copyright 2026 Paswaru
+
+This product includes software developed as part of the Helios Advance BBS
+project (https://github.com/Paswaru/HeliosAdvance).
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file.
+
+A REQUEST, NOT A REQUIREMENT
+----------------------------
+This kit is permissively licensed so that doors built with it may be
+closed-source and commercial. That is deliberate and it is not going to change.
+
+If you improve the kit itself - the wire protocol, one of the language
+libraries, the test harness - we would like the improvement offered back. You
+are not obliged to, and the licence does not make you. We are asking.
